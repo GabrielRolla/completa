@@ -1,0 +1,21 @@
+diagnostico_pt,freq,icd_code
+Hiperlipidemia,10885,"2724   , E785   "
+Fibrilação atrial,10722,"42731  , I480   , I481   , I4811  , I4819  , I482   , I4820  , I4821  , I4891  "
+Hipertensão essencial,10043,"4019   , I10    "
+Não reanimar,10013,"V4986  , Z66    "
+Falência respiratória aguda,9921,"51851  , 51881  , J9600  , J9601  , J9602  "
+Insuficiência renal aguda,9773,"5849   , N179   "
+Doença coronariana aterosclerótica,7796,"41401  , I2510  , I25110 , I25111 , I25118 , I25119 "
+Acidose,7583,"24911  , 25012  , 25013  , 2762   , E0810  , E0910  , E1010  , E1011  , E1110  , E1310  , E1311  , E872   "
+Doença renal crônica não especificada,7510,"40390  , 40391  , 40490  , 40491  , 40492  , 40493  , 5859   , N189   "
+Cuidados paliativos,7084,"V667   , Z515   "
+Anemia não especificada,6017,"2809   , 28310  , 2839   , 2849   , 2859   , D464   , D509   , D519   , D529   , D539   , D589   , D5910  , D599   , D619   , D649   "
+Insuficiência cardíaca congestiva,5374,4280   
+Histórico de tabagismo,4957,Z87891 
+Infecção do trato urinário não especificada,4908,"5990   , N390   "
+Anemia aguda pós-hemorrágica,4772,"2851   , D62    "
+Refluxo gastroesofágico,3538,K219   
+Plaquetopenia não especificada,3534,"2875   , D696   "
+Diabetes mellitus sem complicações,3452,"24900  , 24901  , 25000  , 25001  , 25002  , 25003  "
+Sepse grave com choque,3385,R6521  
+Uso prolongado de anticoagulantes,3082,Z7901  

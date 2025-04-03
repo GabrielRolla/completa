@@ -1,0 +1,18 @@
+diagnostico_pt,media_charlson,freq,icd_code
+Uso prolongado de corticosteroides inalatórios,9.061946902654867,113,Z7951  
+"Neoplasia maligna secundária, local não especificado",9.060790273556231,329,C799   
+Neoplasia maligna do rim (esquerdo ou não especificado),8.71970062286518,473,"C642   , C649   "
+Neoplasia maligna do cólon sigmoide,8.664179104477611,134,C187   
+"Glaucoma de ângulo aberto, não especificado",8.62547508988187,519,"36510  , H4010X0"
+Linfoma de Burkitt,8.536764705882353,136,20020  
+Doença pelo vírus HIV,8.468424279583077,1631,042    
+Neoplasia maligna da próstata,8.45568988369491,1672,"185    , C61    "
+Secondary and unspecified malignant neoplasm of lymph nodes of multiple sites,8.45398773006135,163,1968   
+"Malignant neoplasm of lower lobe, bronchus or lung",8.446575342465753,365,1625   
+Neoplasia maligna secundária do rim ou sistema respiratório,8.418803418803419,117,C7900  
+Hiperlipidemia mista,8.41326530612245,392,E782   
+Neoplasia maligna primária não especificada,8.403162055335969,253,C801   
+"Secondary and unspecified malignant neoplasm of lymph node, unspecified",8.372781065088757,338,C779   
+Obstrução do duodeno,8.314814814814815,108,K315   
+Neoplasia maligna sem especificação de local,8.306487695749441,447,1991   
+Doença pulmonar intersticial induzida por drogas,8.239234449760765,209,J704   
